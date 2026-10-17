@@ -141,7 +141,7 @@ def movies_side_labels(d, f, F):
 
 
 def flash_amount(sid, f, F):
-    hits = {"hook": [1], "perm": [round(F * 0.18)], "temp": [round(F * 0.18)], "artery": [round(F * 0.3)]}
+    hits = {"hook": [2], "perm": [round(F * 0.18)], "temp": [round(F * 0.18)], "artery": [round(F * 0.3)]}
     a = 0.0
     for h in hits.get(sid, []):
         if h <= f < h + 5:
