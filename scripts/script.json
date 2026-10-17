@@ -1,0 +1,12 @@
+[
+ {"id":"hook",     "text":"This is what happens inside your body when you get shot."},
+ {"id":"speed",    "text":"A handgun bullet travels at around twelve hundred feet per second. Faster than the speed of sound."},
+ {"id":"perm",     "text":"When it enters your thigh, it crushes everything in its path, leaving a tunnel of destroyed tissue called the permanent cavity."},
+ {"id":"temp",     "text":"It also shoves the muscle outward, creating a temporary cavity that stretches and snaps back in just a few milliseconds."},
+ {"id":"movies",   "text":"And no, you won't fly backwards like in the movies. The bullet carries less momentum than a fastball."},
+ {"id":"adren",    "text":"Many people don't even feel it at first, because a rush of adrenaline masks the pain."},
+ {"id":"artery",   "text":"The real danger is blood loss. If the bullet tears your femoral artery, you could bleed out in just a few minutes."},
+ {"id":"shock",    "text":"As your blood volume drops, your heart races, and your brain starts running out of oxygen. This is called hemorrhagic shock."},
+ {"id":"tq",       "text":"That's why a tourniquet, tightened a few inches above the wound, can be the difference between life and death."},
+ {"id":"bullet",   "text":"And surprisingly, doctors often leave the bullet inside you, because removing it could cause even more damage."}
+]

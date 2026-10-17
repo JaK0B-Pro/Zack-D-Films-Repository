@@ -1,0 +1,4 @@
+renders/
+output/still_*
+__pycache__/
+*.log
